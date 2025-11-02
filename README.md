@@ -474,7 +474,7 @@ Credit risk assessment with default probability modeling for lending decisions.
 | Risk Assessment | Healthcare analytics identifying 28% high-risk patients | Early intervention enabled | Python,SQL |
 | Hospital Efficiency | SQL-based analysis showing 8-12% stay duration reduction | Bed utilization +8% | SQL,Power BI |
 | Data Coverage | Analyzed 100K+ records across multiple industries | Enterprise-scale insights | Python,SQL |
-| Portfolio Scope | 21 projects across Excel, Power BI, Python, and SQL | Comprehensive skillset | Hybrid Skillset |
+| Portfolio Scope | 21 projects across Excel, Power BI, Python, and SQL | Comprehensive skillset | Hybrid skillset |
 | Industry Experience | Hands-on projects in 10+ business sectors | Proven expertise | All techstacks |
 
 ---
