@@ -509,11 +509,11 @@ Credit risk assessment with default probability modeling for lending decisions.
 
 | Primary Focus | Also Open To | Seeking | My Strengths |
 |---|---|---|---|
-| Entry-Level Business Analyst | Data Analyst | Mentorship & Guidance | 21 Verified Projects |
-| Junior Analyst Role | Analytics Associate | Real-world Experience | 100K+ Records Analyzed |
-| Graduate Analyst Program | Reporting Specialist | Industry Knowledge | 10+ Industries Covered |
+| Entry-Level Business Analyst Position | Data Analyst Role | Mentorship & Guidance from Experienced Professionals | 21 Verified Analytics Projects with Real Impact |
+| Junior Analyst Role in Analytics | Analytics Associate or Data Specialist | Real-world Experience in Production Analytics | 100K+ Records Analyzed Across Multiple Industries |
+| Graduate Analyst Program Opportunities | Reporting & BI Specialist Positions | Industry Knowledge & Domain Expertise Development | 10+ Industries Covered with Proven Techniques |
 
-**Fresher seeking entry-level Business Analyst opportunities! I bring a strong foundation with 21 completed projects, analytical rigor, and enthusiasm to learn. No prior professional experience, but ready to contribute and grow with the right team.**
+**Fresher seeking entry-level Business Analyst opportunities!** I bring a strong foundation with 21 completed projects, analytical rigor, and enthusiasm to learn. No prior professional experience, but ready to contribute and grow with the right team.
 
 </div>
 
