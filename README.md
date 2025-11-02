@@ -22,7 +22,7 @@
 
 ## 🤖 Interactive AI Portfolio Assistant
 
-<a href="https://robi-ai.streamlit.app/">
+<a href="https://ask-robi-ai.streamlit.app/">
   <img src="https://img.shields.io/badge/🌟_CHAT_WITH_ROBI.AI_NOW_→-667EEA?style=for-the-badge&logoColor=white&labelColor=0D1117" height="50"/>
 </a>
 
