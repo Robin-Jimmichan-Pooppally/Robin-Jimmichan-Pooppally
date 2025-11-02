@@ -2,16 +2,17 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Robin%20Jimmichan%20Pooppally&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=160&lines=Business+Analyst+%7C+Data+Storyteller;Transforming+Data+Into+Decisions;21+Projects+%7C+10+Industries)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=Business+Analyst+%7C+Data+Storyteller+%7C+Decision+Enabler;Transforming+Complex+Data+Into+Actionable+Insights;21+Verified+Projects+Across+10+Industries)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://robi-ai.streamlit.app/"><img src="https://img.shields.io/badge/🤖_AI_Assistant-667EEA?style=for-the-badge&logoColor=white"/></a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rjimmichan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:rjimmichan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-### 📍 Bengaluru, India | 🎯 Aspiring Business Analyst | 💼 Open to Opportunities
+### 📍 Bengaluru, India | 🎯 Business Analyst | 💼 Open to Opportunities
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
@@ -19,7 +20,7 @@
 
 <div align="center">
 
-## 🤖 **Interactive AI Portfolio Assistant**
+## 🤖 Interactive AI Portfolio Assistant
 
 <a href="https://robi-ai.streamlit.app/">
   <img src="https://img.shields.io/badge/🌟_CHAT_WITH_ROBI.AI_NOW_→-667EEA?style=for-the-badge&logoColor=white&labelColor=0D1117" height="50"/>
@@ -27,92 +28,97 @@
 
 **Ask anything about my projects • Get instant insights • Powered by Groq AI**
 
+Try asking: "What's Robin's most impressive project?" or "Show me projects with business impact"
+
 </div>
-
-
-```
-💬 "What's Robin's most impressive project?"
-💬 "Show me projects with measurable business impact"
-💬 "How did Robin achieve 92% forecasting accuracy?"
-```
 
 ---
 
-## 👤 **About Me**
+## 👤 Who I Am
 
-<table>
-<tr>
-<td width="60%" valign="top">
+I'm an **aspiring Business Analyst** passionate about uncovering insights hidden in data. Based in **Bengaluru, India**, I specialize in **SQL, Python, Excel, and Power BI** to transform raw datasets into actionable business intelligence. Through 21 completed projects spanning healthcare, telecom, retail, finance, and supply chain sectors, I've learned how to connect data analysis with real-world business impact.
 
-### 🎯 **Who I Am**
+**My Philosophy:** Listen to the business problem → Explore the data deeply → Craft meaningful insights → Enable smart decisions
 
-I'm a **Business Analyst** passionate about transforming complex data into actionable business strategies. Based in **Bengaluru, India**, I specialize in **SQL, Python, Excel, and Power BI** to deliver end-to-end analytics solutions.
+---
 
-### 💡 **What Drives Me**
-
-**🎯 End-to-End Execution** — From raw data to business decisions  
-**💡 Business-First Mindset** — Technical depth meets strategic thinking  
-**📊 Proven Impact** — Every project delivers measurable results  
-**🚀 Self-Taught** — Continuously learning and evolving
-
-### 🎓 **Current Focus**
-
-📚 **Learning:** Advanced Machine Learning • Real-time Analytics  
-🔨 **Building:** Interactive dashboards • Predictive models  
-🎯 **Seeking:** Business Analyst roles • Data Analyst positions
-
-</td>
-<td width="40%" valign="top">
-
-### 📊 **Portfolio At A Glance**
+## 📜 Certifications & Credentials
 
 <div align="center">
 
-| Metric | Count |
-|:------:|:-----:|
-| **📁 Total Projects** | **21** |
-| **📊 Excel Dashboards** | **6** |
-| **🗃️ SQL Projects** | **5** |
-| **📈 Power BI Dashboards** | **4** |
-| **🐍 Python Projects** | **4** |
-| **🏢 Industries** | **10** |
+<a href="https://github.com/Robin-Jimmichan-Pooppally/Certifications">
+  <img src="https://img.shields.io/badge/📜_View_All_Certifications-667EEA?style=for-the-badge&logoColor=white" height="45"/>
+</a>
 
-<br/>
-
-### 🎖️ **Key Achievements**
-
-🎯 **92%** Forecasting Accuracy  
-💰 **15-20%** Cost Reduction  
-👥 **60%** VIP Revenue Share  
-⚕️ **28%** High-Risk ID  
-⏱️ **8-12%** Efficiency Gain
+**Comprehensive collection of completed courses and certifications in data analytics, business analysis, and SQL**
 
 </div>
 
-</td>
+---
+
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
+
+<table style="width: 100%; margin: 0; padding: 0; border-collapse: collapse;">
+<tr style="background-color: rgba(102, 126, 234, 0.1);">
+<td style="width: 20%; text-align: center; padding: 15px; border: 1px solid rgba(102, 126, 234, 0.3);"><b>Data Analysis</b></td>
+<td style="width: 20%; text-align: center; padding: 15px; border: 1px solid rgba(102, 126, 234, 0.3);"><b>Predictive Modeling</b></td>
+<td style="width: 20%; text-align: center; padding: 15px; border: 1px solid rgba(102, 126, 234, 0.3);"><b>Dashboard Design</b></td>
+<td style="width: 20%; text-align: center; padding: 15px; border: 1px solid rgba(102, 126, 234, 0.3);"><b>Business Insights</b></td>
+<td style="width: 20%; text-align: center; padding: 15px; border: 1px solid rgba(102, 126, 234, 0.3);"><b>Analytics Tools</b></td>
+</tr>
+<tr>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Statistical Analysis</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Time Series Forecasting</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Power BI Dashboards</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Strategic Recommendations</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">SQL Optimization</td>
+</tr>
+<tr>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Data Cleaning</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Customer Segmentation</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Excel Visualizations</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">ROI Optimization</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Python Scripting</td>
+</tr>
+<tr>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">EDA & Validation</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Risk Modeling</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">KPI Tracking</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Decision Making</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Data Validation</td>
+</tr>
+<tr>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Pattern Recognition</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Classification Models</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Stakeholder Presentations</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Data-Driven Solutions</td>
+<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Report Automation</td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 💻 **Tech Stack**
-  
-<table width="100%"> <tr>
+## 💻 Tech Stack & Tools
+
+<table width="300">
+<tr>
 <td align="center" width="300">
 <img src="https://skillicons.dev/icons?i=python" width="68"/>
 <br/><b>Python</b>
 </td>
 <td align="center" width="300">
 <img src="https://skillicons.dev/icons?i=mysql" width="68"/>
-<br/><b>MySQL</b>
-</td>
-<td align="center" width="300">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="68"/>
-<br/><b>Excel</b>
+<br/><b>SQL</b>
 </td>
 <td align="center" width="300">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="68"/>
 <br/><b>Power BI</b>
+</td>
+<td align="center" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="68"/>
+<br/><b>Excel</b>
 </td>
 <td align="center" width="300">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="68"/>
@@ -133,339 +139,365 @@ I'm a **Business Analyst** passionate about transforming complex data into actio
 <br/><b>Matplotlib</b>
 </td>
 <td align="center" width="300">
-<img src="https://skillicons.dev/icons?i=git" width="68"/>
-<br/><b>Git</b>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="68"/>
+<br/><b>Seaborn</b>
 </td>
 <td align="center" width="300">
-<img src="https://skillicons.dev/icons?i=github" width="68"/>
-<br/><b>GitHub</b>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🚀 **Portfolio Overview**
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-<div align="center">
-
-### 🐍 **Python Projects**
-
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Python-Projects)
-
-</div>
-
----
-
-#### **🔮 Sales Forecasting**
-Time Series Analysis
-- 📈 92% accuracy (ARIMA/Prophet)
-- 📊 12 months analyzed
-- 🎯 Q4 peak identified
-
-#### **🛒 Market Basket Analysis**
-RFM Segmentation
-- 💰 VIP = 60% revenue
-- 🔍 K-Means clustering
-- 📦 8 product bundles
-
-#### **🏠 Airbnb Price Analysis**
-NYC Real Estate
-- 🌆 48,895 listings
-- 📍 Location insights
-- 💡 Pricing patterns
-
-#### **🏥 Healthcare Analytics**
-Patient Risk Assessment
-- ⚕️ 28% high-risk ID
-- 📊 Comorbidity analysis
-- 🎯 LOS prediction
-
-</td>
-<td width="25%" valign="top">
-
-<div align="center">
-
-### 🗃️ **SQL Projects**
-
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-SQL-Projects)
-
-</div>
-
----
-
-#### **📦 Inventory Management**
-Supply Chain Optimization
-- 💰 15-20% cost reduction
-- 📊 7 reports generated
-- 🔄 Supplier analysis
-
-#### **💳 Loan Risk Analysis**
-Credit Risk Assessment
-- 🎯 10-15% default reduction
-- 📊 Risk segmentation
-- 💡 Credit thresholds
-
-#### **🏥 Hospital Operations**
-Healthcare Analytics
-- ⏱️ 8-12% stay reduction
-- 📊 1000+ records
-- 💰 Cost tracking
-
-#### **🏦 Bank Customer Segmentation**
-Customer Classification
-- 👥 Urban demographics
-- 💳 Transaction analysis
-- 📊 Tier modeling
-
-#### **📞 Telco Churn Analysis**
-Customer Retention
-- 📈 Contract impact
-- 🔄 Churn patterns
-- 💡 Retention strategies
-
-</td>
-<td width="25%" valign="top">
-
-<div align="center">
-
-### 📊 **Excel Projects**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="59"/>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Excel-Projects)
-
-</div>
-
----
-
-#### **📈 Sales Performance**
-Revenue & Trend Analysis
-- Regional breakdown
-- Top products
-
-#### **📞 Telco Churn**
-Customer Retention
-- Churn analysis
-- Risk segments
-
-#### **📢 Marketing ROI**
-Campaign Performance
-- Conversion rates
-- Channel effectiveness
-
-#### **🛒 E-commerce**
-Retail Analytics
-- Seasonal patterns
-- Customer value
-
-#### **👥 HR Analytics**
-Workforce Insights
-- Attrition rates
-- Diversity metrics
-
-#### **🏦 Bank Customer**
-Financial Analysis
-- Deposits analysis
-- Loan uptake
-
-</td>
-<td width="25%" valign="top">
-
-<div align="center">
-
-### 📈 **PowerBI Projects**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Power-BI-Projects)
-
-</div>
-
----
-
-#### **🛍️ Retail Sales**
-Sales & Profit Trends
-- 📊 Regional analysis
-- 💹 Category breakdown
-- 📈 Margin insights
-
-#### **💼 Financial Performance**
-P&L & Revenue Tracking
-- 📊 YoY growth trends
-- 💰 Expense analysis
-- 📉 Margin trends
-
-#### **👤 Customer 360**
-Unified Customer View
-- 📊 Segmentation KPIs
-- 💬 Support tickets
-- 🛍️ Purchase frequency
-
-#### **🛒 E-commerce Funnel**
-Conversion Analysis
-- 📊 Visit to Purchase
-- 💹 Stage conversion
-- 📈 Drop-off analysis
-
+<img src="https://jupyter.org/favicon.ico" width="68"/>
+<br/><b>Jupyter</b>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 **Impact Metrics Dashboard**
+## 📊 Excel Projects
+
+### 1️⃣ Telco Customer Churn Analysis
+**Category:** Customer Analytics | **Records:** 7,043
+
+Churn pattern analysis for telecom customers with insights on contract types and payment methods.
+
+**Key Metrics:**
+- 📊 Churn by contract type identified
+- 💳 Payment method impact analysis
+- 📈 Customer retention patterns
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Telco-Customer-Churn-Analysis-Excel-Project)
+
+---
+
+### 2️⃣ Sales Performance Dashboard
+**Category:** Sales Analytics | **Records:** 800+
+
+Regional and salesperson performance tracking with monthly trends and comparative analysis.
+
+**Key Metrics:**
+- 💼 8 salespeople tracked
+- 🌍 4 regions analyzed
+- 📊 Monthly trend visualization
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Sales-Performance-Analysis-Excel-Project)
+
+---
+
+### 3️⃣ Marketing Campaign ROI
+**Category:** Marketing Analytics | **Scope:** Multi-channel
+
+Campaign performance analysis with ROI optimization strategies and budget allocation insights.
+
+**Key Metrics:**
+- 💰 ROI by channel
+- 🎯 Conversion rates
+- 📊 Budget allocation insights
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Marketing-Campaign-Analysis-Excel-Project)
+
+---
+
+### 4️⃣ HR Analytics Dashboard
+**Category:** HR Analytics | **Coverage:** 7 departments
+
+Employee attrition analysis with satisfaction metrics and department-level insights.
+
+**Key Metrics:**
+- 📊 11.05% attrition rate
+- 🏢 7 departments analysis
+- 💼 Multiple role breakdown
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/HR-Analytics-Excel-Project)
+
+---
+
+### 5️⃣ E-commerce Sales Analysis
+**Category:** E-commerce Analytics | **Period:** Sep 2024 - Sep 2025
+
+Year-long e-commerce performance with seasonal patterns and product ranking.
+
+**Key Metrics:**
+- 📦 ~1,000 transactions analyzed
+- 📅 12-month trend analysis
+- 🏆 Product performance ranking
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/E-commerce-Sales-Analysis-Excel-Project)
+
+---
+
+### 6️⃣ Bank Customer Segmentation
+**Category:** Banking Analytics | **Segments:** Multi-level
+
+Customer demographics and subscription behavior with advanced segmentation.
+
+**Key Metrics:**
+- 👥 Customer segmentation layers
+- 💰 Balance distribution
+- 🎯 Subscription analysis
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Bank-Customer-Analysis-Excel-Project)
+
+---
+
+## 📈 Power BI Dashboards
+
+### 1️⃣ E-commerce Funnel Analysis
+**Category:** Conversion Analytics | **Model:** Multi-table DAX
+
+Customer conversion funnel from visits to purchases with drop-off analysis and payment tracking.
+
+**Key Insights:**
+- 📊 Multi-table DAX model
+- 🚫 Drop-off tracking by stage
+- 💳 Payment method analysis
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/E-commerce-Funnel-Analysis-PowerBI-Project)
+
+---
+
+### 2️⃣ Customer 360 Dashboard
+**Category:** Customer Analytics | **Model:** Star Schema
+
+Unified customer view integrating sales, orders, and support tickets for comprehensive analysis.
+
+**Key Insights:**
+- 🌟 Star Schema model design
+- 💰 Revenue & profit tracking
+- 🎟️ Support ticket metrics
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Customer-360-Dashboard-PowerBI-Project)
+
+---
+
+### 3️⃣ Retail Sales Dashboard
+**Category:** Sales Analytics | **Scope:** Multi-channel
+
+Multi-channel retail performance tracking with profitability analysis and category insights.
+
+**Key Insights:**
+- 📊 Category performance breakdown
+- 🌍 Regional comparison
+- 💳 Channel performance
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Retail-Sales-Dashboard-PowerBI-Project)
+
+---
+
+### 4️⃣ Telco Churn Dashboard
+**Category:** Churn Analytics | **Customers:** 7,000+
+
+Telecom churn patterns across contracts, services, and demographics with retention insights.
+
+**Key Insights:**
+- 👥 Demographic segmentation
+- 📋 Contract type analysis
+- 💰 Revenue impact assessment
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Telco-Customer-Churn-Dashboard-PowerBI-Project)
+
+---
+
+### 5️⃣ Financial Performance Dashboard
+**Category:** Financial Analytics | **Metrics:** P&L Analysis
+
+Revenue, expenses, profit & investment tracking with YoY growth analysis.
+
+**Key Insights:**
+- 📊 DAX-driven KPIs
+- 📈 YoY growth percentage
+- 🔍 Department/region breakdown
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Financial-Performance-Dashboard-PowerBI-Project)
+
+---
+
+## 🐍 Python Analytics Projects
+
+### 1️⃣ Retail Customer Segmentation
+**Category:** Machine Learning | **Data:** 1,000 transactions, 100 customers, 24 months
+
+RFM Analysis + K-Means clustering for customer value segmentation and targeting.
+
+**Key Results:**
+- 📊 4 distinct customer segments
+- 🎯 23% identified as VIP customers
+- 💰 Average VIP value: $15K+
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Retail-Customer-Segmentation-Python-Project)
+
+---
+
+### 2️⃣ Healthcare Patient Analytics
+**Category:** Healthcare Analytics | **Data:** 100,000 patient admissions
+
+EDA on patient data with risk stratification and length of stay prediction.
+
+**Key Results:**
+- 🏥 6.9% identified as high-risk patients
+- ⏱️ High-risk stays 1.54× longer
+- 📊 Comorbidity patterns identified
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Healthcare-Patient-Analytics-Python-Project)
+
+---
+
+### 3️⃣ Airbnb NYC Price Analysis
+**Category:** Real Estate Analytics | **Data:** 48,895 listings
+
+Pricing patterns and location insights from NYC Airbnb market with clustering analysis.
+
+**Key Results:**
+- 🌆 NYC market segmentation
+- 📍 Location-based pricing patterns
+- 💡 Neighborhood insights
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Airbnb-NYC-Price-Analysis-Python-Project)
+
+---
+
+### 4️⃣ Sales Forecasting Time Series
+**Category:** Forecasting | **Accuracy:** 92%
+
+ARIMA & Prophet forecasting with seasonal pattern detection and demand prediction.
+
+**Key Results:**
+- 📊 92% forecasting accuracy
+- 🎯 Q4 peak season identified (35% higher)
+- 🌆 Top 3 cities = 65% of sales
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Sales-Forecasting-Time-Series-Python-Project)
+
+---
+
+## 🗃️ SQL Analytics Projects
+
+### 1️⃣ Healthcare Claims Analysis
+**Category:** Healthcare | **Scope:** Claims aggregation & cost analysis
+
+Medical claims data aggregation with provider performance and financial metrics.
+
+**Key Features:**
+- 📊 Complex JOINs across multiple tables
+- 💰 Financial metrics calculation
+- 🏥 Provider performance ranking
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Healthcare-Claims-Analysis-SQL-Project)
+
+---
+
+### 2️⃣ Bank Customer Segmentation
+**Category:** Banking | **Technique:** Window functions & aggregations
+
+Multi-dimensional customer classification using advanced SQL functions.
+
+**Key Features:**
+- 👥 Complex segmentation logic
+- 📊 Window function calculations
+- 💳 Behavioral analysis
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Bank-Customer-Segmentation-SQL-Project)
+
+---
+
+### 3️⃣ Telco Churn Analysis
+**Category:** Telecom | **Scope:** Churn pattern identification
+
+Churn pattern identification and retention insights with contract impact analysis.
+
+**Key Features:**
+- 📊 Churn rate calculations
+- 💼 Contract type analysis
+- 📈 Retention strategy insights
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Telco-Churn-Analysis-SQL-Project)
+
+---
+
+### 4️⃣ Inventory & Supplier Analysis
+**Category:** Supply Chain | **Impact:** 15-20% cost reduction
+
+Supply chain optimization with automated reorder points and supplier analysis.
+
+**Key Features:**
+- 💰 15-20% cost savings achieved
+- 📊 7 optimization reports
+- 🔄 Supplier performance tracking
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Inventory-Supplier-Analysis-SQL-Project)
+
+---
+
+### 5️⃣ Hospital Patient Analysis
+**Category:** Hospital Operations | **Data:** 1,000+ records
+
+Patient operations and resource utilization with length of stay optimization.
+
+**Key Features:**
+- ⏱️ 8-12% stay duration reduction
+- 📊 Resource utilization metrics
+- 💰 Cost tracking & optimization
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Hospital-Patient-Analysis-SQL-Project)
+
+---
+
+### 6️⃣ Loan Default Prediction
+**Category:** Credit Risk | **Scope:** Risk assessment & modeling
+
+Credit risk assessment with default probability modeling for lending decisions.
+
+**Key Features:**
+- 🎯 Risk segmentation models
+- 📊 Default pattern analysis
+- 💼 Credit threshold recommendations
+
+[📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Loan-Default-Prediction-SQL-Project)
+
+---
+
+## 🏆 Core Competencies
+
+| **Statistical Analysis** | **Data Visualization** | **Predictive Modeling** | **Business Strategy** |
+|:---|:---|:---|:---|
+| Exploratory Data Analysis | Dashboard Creation | Time Series Forecasting | Stakeholder Communication |
+| Hypothesis Testing | Power BI Reports | Customer Segmentation | Strategic Recommendations |
+| Pattern Recognition | Excel Dashboards | Risk Modeling | ROI Optimization |
+| Data Validation | KPI Tracking | Classification Algorithms | Data-Driven Decisions |
+
+---
+
+## 🎖️ Project Highlights
+
+| Achievement | Details |
+|:---|:---|
+| **Sales Forecasting** | Built ARIMA & Prophet models achieving 92% accuracy for demand prediction |
+| **Cost Optimization** | Designed SQL supply chain analysis identifying 15-20% cost reduction opportunities |
+| **Customer Segmentation** | RFM analysis + K-Means clustering identifying top 23% VIP customers |
+| **Risk Assessment** | Healthcare analytics identifying 28% high-risk patients from 100K records |
+| **Hospital Efficiency** | SQL-based analysis showing 8-12% potential stay duration reduction |
+| **Data Coverage** | Analyzed 100K+ records across healthcare, telecom, retail, and finance |
+| **Portfolio Scope** | 21 projects across Excel, Power BI, Python, and SQL |
+| **Industry Experience** | Hands-on projects in 10+ different business sectors |
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/21-667EEA?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>Complete<br/>Projects</b>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/92%25-4CAF50?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>Forecast<br/>Accuracy</b>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/15--20%25-FF6B6B?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>Cost<br/>Reduction</b>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/60%25-FFD700?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>VIP<br/>Revenue</b>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/10-9C27B0?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>Industries</b>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/48K+-00ACC1?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>Data<br/>Analyzed</b>
-</td>
-</tr>
-<tr height="30">
-<td colspan="6">&nbsp;</td>
-</tr>
-<tr>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/28%25-E91E63?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>Risk<br/>Identified</b>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/8--12%25-00BCD4?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>Stay<br/>Reduction</b>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/63%25-FF5722?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>E-com<br/>Conversion</b>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/40%25-00897B?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>Lower<br/>Repeat Rate</b>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/81%25-FF9100?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>Visit to<br/>Cart</b>
-</td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/80%25-1976D2?style=for-the-badge&logoColor=white" height="50" width="100"/>
-<br/><b>Cart to<br/>Purchase</b>
-</td>
-</tr>
-</table>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Robin-Jimmichan-Pooppally&custom_title=Contribution%20Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF&area=true&hide_border=true)](https://github.com/Robin-Jimmichan-Pooppally)
 
 </div>
 
----
+<div align="center">
 
-## 🎯 **Core Competencies**
+| GitHub Stats | GitHub Streak |
+|:---|:---|
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF)](https://github.com/Robin-Jimmichan-Pooppally) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF)](https://github.com/Robin-Jimmichan-Pooppally) |
 
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-
-### 📊 **Data Analysis**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-
-**Skills:**
-- Statistical Analysis
-- Exploratory Data Analysis
-- Data Cleaning & Validation
-- Feature Engineering
-- Trend & Pattern Recognition
-- A/B Testing
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 🔮 **Predictive Analytics**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
-
-**Skills:**
-- Time Series Forecasting
-- Customer Segmentation
-- Clustering Algorithms
-- Association Rule Mining
-- Risk Modeling
-- Classification
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 💼 **Business Intelligence**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
-
-**Skills:**
-- Dashboard Design (Power BI)
-- KPI Development
-- SQL Reporting
-- Data Visualization
-- Stakeholder Communication
-- Strategic Insights
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 **GitHub Statistics**
+</div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Robin-Jimmichan-Pooppally&custom_title=Contribution%20Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF&area=true&hide_border=true"/>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8"/>
-
-<br/><br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8)](https://github.com/Robin-Jimmichan-Pooppally)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Robin-Jimmichan-Pooppally&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -473,175 +505,23 @@ Conversion Analysis
 
 ---
 
-## 🔬 **Featured Projects**
-
-<details>
-<summary><b>🔮 Sales Forecasting | Time Series Analysis</b></summary>
-
-<br/>
-
-**📊 Challenge:** Predict quarterly revenue for optimal inventory planning
-
-**🛠️ Methodology:**
-```
-1. Data Integration → Merged 12 monthly files using glob & pandas
-2. Time Series Analysis → Decomposition, stationarity testing (ADF)
-3. Model Development → ARIMA and Prophet forecasting models
-4. Validation → RMSE/MAE accuracy metrics
-```
-
-**✨ Key Results:**
-- ✅ **92% prediction accuracy** for next-quarter revenue
-- ✅ **Q4 identified** as peak season (35% higher sales)
-- ✅ **Top 3 cities** contribute 65% of total sales
-- ✅ **Seasonal patterns** clearly identified
-
-**💼 Business Impact:**
-- Optimal inventory levels achieved
-- Reduced stockouts by 40%
-- Better resource allocation
-- Data-driven planning enabled
-
-**🔧 Tech Stack:** Python • Pandas • NumPy • Statsmodels • Prophet • Matplotlib • Seaborn
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Python-Projects)
-
-</details>
-
-<details>
-<summary><b>📈 Retail Sales Dashboard | Power BI</b></summary>
-
-<br/>
-
-**📊 Challenge:** Visualize sales performance across regions and product categories in real-time
-
-**🛠️ Methodology:**
-```
-1. Data Integration → Superstore sales data into Power BI
-2. Visualization Design → Maps, KPI cards, trend lines
-3. Interactivity → Slicers for region, category, time period
-4. Performance Analysis → Profit margin by segment
-```
-
-**✨ Key Results:**
-- ✅ **West region** shows highest profitability
-- ✅ **Furniture category** has lowest profit margins
-- ✅ **Real-time dashboards** for executive visibility
-- ✅ **Regional trends** clearly visible through visualizations
-
-**💼 Business Impact:**
-- Strategic focus on high-margin regions
-- Category-level optimization opportunities
-- Executive decision-making improved
-- Performance tracking automated
-
-**🔧 Tech Stack:** Power BI • DAX • Maps • KPI Cards • Trend Analysis
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Power-BI-Projects)
-
-</details>
-
-<details>
-<summary><b>📦 Inventory & Supply Chain Optimization | SQL</b></summary>
-
-<br/>
-
-**📊 Challenge:** Reduce inventory costs while preventing stockouts
-
-**🛠️ Methodology:**
-```sql
-1. Database Design → Suppliers & Products with foreign keys
-2. Complex Queries → JOINs, CTEs, Window functions
-3. Supplier Analysis → Dependency percentage calculation
-4. Turnover Analysis → Annual Sales / Stock on Hand
-5. Alert System → Automated reorder point notifications
-```
-
-**✨ Key Results:**
-- ✅ **15-20% cost reduction** achieved
-- ✅ **7 actionable reports** generated
-- ✅ **Real-time alerts** for low stock
-- ✅ **Supplier diversification** recommended
-
-**💼 Business Impact:**
-- Prevented stockouts completely
-- Optimized inventory levels
-- Reduced supplier risk
-- Improved cash flow
-
-**🔧 Tech Stack:** MySQL • CTEs • Window Functions • Aggregate Functions
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-SQL-Projects)
-
-</details>
-
-<details>
-<summary><b>🛒 E-commerce Funnel Analysis | Power BI</b></summary>
-
-<br/>
-
-**📊 Challenge:** Optimize conversion funnel from Visit → Cart → Purchase
-
-**🛠️ Methodology:**
-```
-1. Data Integration → Visits, Carts, Purchases linked by Customer_ID
-2. Funnel Visualization → Stage-wise conversion rates
-3. Drop-off Analysis → Identify bottlenecks at each stage
-4. Trend Analysis → Conversion performance over time
-```
-
-**✨ Key Results:**
-- ✅ **Visit → Cart conversion: 81%**
-- ✅ **Cart → Purchase conversion: 80%**
-- ✅ **Overall conversion: 63%**
-- ✅ **Drop-offs** mainly occur at cart stage
-
-**💼 Business Impact:**
-- Cart abandonment strategies identified
-- Conversion optimization opportunities clear
-- Revenue growth potential quantified
-- User journey optimization enabled
-
-**🔧 Tech Stack:** Power BI • Funnel Charts • Cards • Trend Lines
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robin-Jimmichan-Pooppally/Business-Analyst-Power-BI-Projects)
-
-</details>
-
----
-
-## 💼 **Open to Opportunities**
+## 🚀 Looking For
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c33.gif" width="1000"/>
+| **Primary Focus** | **Also Open To** | **Seeking** | **My Strengths** |
+|:---|:---|:---|:---|
+| **Entry-Level Business Analyst** | Data Analyst | Mentorship & Guidance | 21 Verified Projects |
+| Junior Analyst Role | Analytics Associate | Real-world Experience | 100K+ Records Analyzed |
+| Graduate Analyst Program | Reporting Specialist | Industry Knowledge | 10+ Industries Covered |
 
-### Actively seeking **Business Analyst** | **Data Analyst** roles
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-🎯<br/><b>Data-Driven<br/>Decision Making</b>
-</td>
-<td align="center" width="25%">
-📊<br/><b>Building Impactful<br/>Analytics Solutions</b>
-</td>
-<td align="center" width="25%">
-🚀<br/><b>Growing with<br/>Innovative Teams</b>
-</td>
-<td align="center" width="25%">
-💡<br/><b>Solving Real<br/>Business Problems</b>
-</td>
-</tr>
-</table>
+**Fresher seeking entry-level Business Analyst opportunities! I bring a strong foundation with 21 completed projects, analytical rigor, and enthusiasm to learn. No prior professional experience, but ready to contribute and grow with the right team.**
 
 </div>
 
 ---
 
-## 🤝 **Let's Connect!**
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -650,13 +530,13 @@ Conversion Analysis
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
 <a href="https://robi-ai.streamlit.app/">
-  <img src="https://img.shields.io/badge/🤖_AI_Assistant-Chat_Now-667EEA?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/🤖_AI_Assistant-667EEA?style=for-the-badge&logoColor=white" height="40"/>
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rjimmichan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+<a href="mailto:rjimmichan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
 
 <br/><br/>
@@ -681,10 +561,9 @@ Conversion Analysis
 
 <br/>
 
-**Made with 💜 by Robin Jimmichan Pooppally**  
-*Last Updated: October 2025*
+**Made with 💡 by Robin Jimmichan Pooppally** 
+*Last Updated: November 2025*
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
