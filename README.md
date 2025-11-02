@@ -513,6 +513,8 @@ Credit risk assessment with default probability modeling for lending decisions.
 | Junior Analyst Role | Analytics Associate | Real-world Experience | 100K+ Records Analyzed |
 | Graduate Analyst Program | Reporting Specialist | Industry Knowledge | 10+ Industries Covered |
 
+---
+
 **Fresher seeking entry-level Business Analyst opportunities! I bring a strong foundation with 21 completed projects, analytical rigor, and enthusiasm to learn. No prior professional experience, but ready to contribute and grow with the right team.**
 
 </div>
