@@ -452,40 +452,41 @@ Credit risk assessment with default probability modeling for lending decisions.
 [📂 View Repository](https://github.com/Robin-Jimmichan-Pooppally/Loan-Default-Prediction-SQL-Project)
 
 ---
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
-<table style="width: 100%; margin: 0; padding: 0; border-collapse: collapse;">
+
+## 🎯 Core Competencies
+
+<table style="width:1000%; border-collapse: collapse; margin-left: 0; margin-right: 0;">
 <tr style="background-color: rgba(102, 126, 234, 0.1);">
-<td style="width: 25%; text-align: center; padding: 15px; border: 1px solid rgba(102, 126, 234, 0.3);"><b>Statistical Analysis</b></td>
-<td style="width: 25%; text-align: center; padding: 15px; border: 1px solid rgba(102, 126, 234, 0.3);"><b>Data Visualization</b></td>
-<td style="width: 25%; text-align: center; padding: 15px; border: 1px solid rgba(102, 126, 234, 0.3);"><b>Predictive Modeling</b></td>
-<td style="width: 25%; text-align: center; padding: 15px; border: 1px solid rgba(102, 126, 234, 0.3);"><b>Business Strategy</b></td>
+<td style="width:25%; text-align:center; padding:15px; border: 1px solid rgba(102, 126, 234, 0.3); margin:0;"><b>Statistical Analysis</b></td>
+<td style="width:25%; text-align:center; padding:15px; border: 1px solid rgba(102, 126, 234, 0.3); margin:0;"><b>Data Visualization</b></td>
+<td style="width:25%; text-align:center; padding:15px; border: 1px solid rgba(102, 126, 234, 0.3); margin:0;"><b>Predictive Modeling</b></td>
+<td style="width:25%; text-align:center; padding:15px; border: 1px solid rgba(102, 126, 234, 0.3); margin:0;"><b>Business Strategy</b></td>
 </tr>
 <tr>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Exploratory Data Analysis</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Dashboard Creation</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Time Series Forecasting</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Stakeholder Communication</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Exploratory Data Analysis</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Dashboard Creation</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Time Series Forecasting</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Stakeholder Communication</td>
 </tr>
 <tr>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Hypothesis Testing</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Power BI Reports</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Customer Segmentation</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Strategic Recommendations</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Hypothesis Testing</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Power BI Reports</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Customer Segmentation</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Strategic Recommendations</td>
 </tr>
 <tr>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Pattern Recognition</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Excel Dashboards</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Risk Modeling</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">ROI Optimization</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Pattern Recognition</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Excel Dashboards</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Risk Modeling</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">ROI Optimization</td>
 </tr>
 <tr>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Data Validation</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">KPI Tracking</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Classification Algorithms</td>
-<td style="text-align: center; padding: 12px; border: 1px solid rgba(102, 126, 234, 0.2);">Data-Driven Decisions</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Data Validation</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">KPI Tracking</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Classification Algorithms</td>
+<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Data-Driven Decisions</td>
 </tr>
 </table>
-</div>
 
 ---
 
