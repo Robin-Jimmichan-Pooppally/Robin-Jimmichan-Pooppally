@@ -507,11 +507,9 @@ Credit risk assessment with default probability modeling for lending decisions.
 
 ## 🚀 Looking For
 
-<div align="center">
-
-| **Primary Focus** | **Also Open To** | **Seeking** | **My Strengths** |
-|:---|:---|:---|:---|
-| **Entry-Level Business Analyst** | Data Analyst | Mentorship & Guidance | 21 Verified Projects |
+| Primary Focus | Also Open To | Seeking | My Strengths |
+|---|---|---|---|
+| Entry-Level Business Analyst | Data Analyst | Mentorship & Guidance | 21 Verified Projects |
 | Junior Analyst Role | Analytics Associate | Real-world Experience | 100K+ Records Analyzed |
 | Graduate Analyst Program | Reporting Specialist | Industry Knowledge | 10+ Industries Covered |
 
