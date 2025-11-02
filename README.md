@@ -453,10 +453,10 @@ Credit risk assessment with default probability modeling for lending decisions.
 
 ---
 
-## 🏆 Core Competencies
+## 🎯 Core Competencies
 
-| **Statistical Analysis** | **Data Visualization** | **Predictive Modeling** | **Business Strategy** |
-|:---|:---|:---|:---|
+| Statistical Analysis | Data Visualization | Predictive Modeling | Business Strategy |
+|---|---|---|---|
 | Exploratory Data Analysis | Dashboard Creation | Time Series Forecasting | Stakeholder Communication |
 | Hypothesis Testing | Power BI Reports | Customer Segmentation | Strategic Recommendations |
 | Pattern Recognition | Excel Dashboards | Risk Modeling | ROI Optimization |
@@ -464,18 +464,18 @@ Credit risk assessment with default probability modeling for lending decisions.
 
 ---
 
-## 🎖️ Project Highlights
+## 🏆 Project Highlights
 
 | Achievement | Details |
-|:---|:---|
-| **Sales Forecasting** | Built ARIMA & Prophet models achieving 92% accuracy for demand prediction |
-| **Cost Optimization** | Designed SQL supply chain analysis identifying 15-20% cost reduction opportunities |
-| **Customer Segmentation** | RFM analysis + K-Means clustering identifying top 23% VIP customers |
-| **Risk Assessment** | Healthcare analytics identifying 28% high-risk patients from 100K records |
-| **Hospital Efficiency** | SQL-based analysis showing 8-12% potential stay duration reduction |
-| **Data Coverage** | Analyzed 100K+ records across healthcare, telecom, retail, and finance |
-| **Portfolio Scope** | 21 projects across Excel, Power BI, Python, and SQL |
-| **Industry Experience** | Hands-on projects in 10+ different business sectors |
+|---|---|
+| Sales Forecasting | Built ARIMA & Prophet models achieving 92% accuracy for demand prediction |
+| Cost Optimization | Designed SQL supply chain analysis identifying 15-20% cost reduction opportunities |
+| Customer Segmentation | RFM analysis + K-Means clustering identifying top 23% VIP customers |
+| Risk Assessment | Healthcare analytics identifying 28% high-risk patients from 100K+ records |
+| Hospital Efficiency | SQL-based analysis showing 8-12% potential stay duration reduction |
+| Data Coverage | Analyzed 100K+ records across healthcare, telecom, retail, and finance |
+| Portfolio Scope | **21 projects** across Excel, Power BI, Python, and SQL |
+| Industry Experience | Hands-on projects in **10+ different business sectors** |
 
 ---
 
