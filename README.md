@@ -455,53 +455,27 @@ Credit risk assessment with default probability modeling for lending decisions.
 
 ## 🎯 Core Competencies
 
-<table style="width:1000%; border-collapse: collapse; margin-left: 0; margin-right: 0;">
-<tr style="background-color: rgba(102, 126, 234, 0.1);">
-<td style="width:25%; text-align:center; padding:15px; border: 1px solid rgba(102, 126, 234, 0.3); margin:0;"><b>Statistical Analysis</b></td>
-<td style="width:25%; text-align:center; padding:15px; border: 1px solid rgba(102, 126, 234, 0.3); margin:0;"><b>Data Visualization</b></td>
-<td style="width:25%; text-align:center; padding:15px; border: 1px solid rgba(102, 126, 234, 0.3); margin:0;"><b>Predictive Modeling</b></td>
-<td style="width:25%; text-align:center; padding:15px; border: 1px solid rgba(102, 126, 234, 0.3); margin:0;"><b>Business Strategy</b></td>
-</tr>
-<tr>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Exploratory Data Analysis</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Dashboard Creation</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Time Series Forecasting</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Stakeholder Communication</td>
-</tr>
-<tr>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Hypothesis Testing</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Power BI Reports</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Customer Segmentation</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Strategic Recommendations</td>
-</tr>
-<tr>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Pattern Recognition</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Excel Dashboards</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Risk Modeling</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">ROI Optimization</td>
-</tr>
-<tr>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Data Validation</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">KPI Tracking</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Classification Algorithms</td>
-<td style="width:25%; text-align:center; padding:12px; border: 1px solid rgba(102, 126, 234, 0.2); margin:0;">Data-Driven Decisions</td>
-</tr>
-</table>
+| Statistical Analysis | Data Visualization | Predictive Modeling | Business Strategy | Advanced Analytics |
+|---|---|---|---|---|
+| Exploratory Data Analysis | Dashboard Creation | Time Series Forecasting | Stakeholder Communication | Pattern Recognition |
+| Hypothesis Testing | Power BI Reports | Customer Segmentation | Strategic Recommendations | Machine Learning |
+| Data Validation | Excel Dashboards | Risk Modeling | ROI Optimization | Feature Engineering |
+| Statistical Modeling | KPI Tracking | Classification Algorithms | Data-Driven Decisions | Model Evaluation |
 
 ---
 
 ## 🏆 Project Highlights
 
-| Achievement | Details |
-|---|---|
-| Sales Forecasting | Built ARIMA & Prophet models achieving 92% accuracy for demand prediction |
-| Cost Optimization | Designed SQL supply chain analysis identifying 15-20% cost reduction opportunities |
-| Customer Segmentation | RFM analysis + K-Means clustering identifying top 23% VIP customers |
-| Risk Assessment | Healthcare analytics identifying 28% high-risk patients from 100K+ records |
-| Hospital Efficiency | SQL-based analysis showing 8-12% potential stay duration reduction |
-| Data Coverage | Analyzed 100K+ records across healthcare, telecom, retail, and finance |
-| Portfolio Scope | **21 projects** across Excel, Power BI, Python, and SQL |
-| Industry Experience | Hands-on projects in **10+ different business sectors** |
+| Achievement | Details | Business Impact | Tools Used |
+|---|---|---|---|
+| Sales Forecasting | Built ARIMA & Prophet models achieving 92% accuracy | 40% stockout reduction | Python |
+| Cost Optimization | SQL supply chain analysis identifying 15-20% cost reduction | $2M+ savings potential | SQL |
+| Customer Segmentation | RFM analysis + K-Means clustering identifying VIP customers | 60% revenue concentration | Python |
+| Risk Assessment | Healthcare analytics identifying 28% high-risk patients | Early intervention enabled | Python,SQL |
+| Hospital Efficiency | SQL-based analysis showing 8-12% stay duration reduction | Bed utilization +8% | SQL,Power BI |
+| Data Coverage | Analyzed 100K+ records across multiple industries | Enterprise-scale insights | Python,SQL |
+| Portfolio Scope | 21 projects across Excel, Power BI, Python, and SQL | Comprehensive skillset | Multiple tools |
+| Industry Experience | Hands-on projects in 10+ business sectors | Proven expertise | All tech stacks |
 
 ---
 
