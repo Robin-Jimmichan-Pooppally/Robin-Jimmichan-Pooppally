@@ -475,7 +475,7 @@ Credit risk assessment with default probability modeling for lending decisions.
 | Hospital Efficiency | SQL-based analysis showing 8-12% stay duration reduction | Bed utilization +8% | SQL,Power BI |
 | Data Coverage | Analyzed 100K+ records across multiple industries | Enterprise-scale insights | Python,SQL |
 | Portfolio Scope | 21 projects across Excel, Power BI, Python, and SQL | Comprehensive skillset | Multiple tools |
-| Industry Experience | Hands-on projects in 10+ business sectors | Proven expertise | All tech stacks |
+| Industry Experience | Hands-on projects in 10+ business sectors | Proven expertise | All techstacks |
 
 ---
 
