@@ -530,7 +530,7 @@ Credit risk assessment with default probability modeling for lending decisions.
 <a href="https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-<a href="https://robi-ai.streamlit.app/">
+<a href="https://ask-robi-ai.streamlit.app/">
   <img src="https://img.shields.io/badge/🤖_AI_Assistant-667EEA?style=for-the-badge&logoColor=white" height="40"/>
 </a>
 <a href="mailto:rjimmichan@gmail.com">
