@@ -499,6 +499,8 @@ Credit risk assessment with default probability modeling for lending decisions.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8)](https://github.com/Robin-Jimmichan-Pooppally)
 
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robin-Jimmichan-Pooppally/Robin-Jimmichan-Pooppall/output/github-contribution-grid-snake-dark.svg">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Robin-Jimmichan-Pooppally&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
