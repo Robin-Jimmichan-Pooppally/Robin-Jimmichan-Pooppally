@@ -565,3 +565,12 @@ Credit risk assessment with default probability modeling for lending decisions.
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robin-Jimmichan-Pooppally/Robin-Jimmichan-Pooppally/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Robin-Jimmichan-Pooppally/Robin-Jimmichan-Pooppally/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Robin-Jimmichan-Pooppally/Robin-Jimmichan-Pooppally/output/github-contribution-grid-snake.svg">
+</picture>
+
