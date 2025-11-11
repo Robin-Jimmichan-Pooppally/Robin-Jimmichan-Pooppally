@@ -508,7 +508,7 @@ Credit risk assessment with default probability modeling for lending decisions.
 ### 💻 Language & Repository Stats
 
 <div align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Repos per Language"/>
+<img width="100%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Repos per Language"/>
 </div>
 
 
