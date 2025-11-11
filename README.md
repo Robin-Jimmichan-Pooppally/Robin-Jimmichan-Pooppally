@@ -101,7 +101,6 @@ I'm an **aspiring Business Analyst** passionate about uncovering insights hidden
 ---
 
 ## 💻 Tech Stack & Tools
-
 <table width="300">
 <tr>
 <td align="center" width="300">
@@ -117,7 +116,7 @@ I'm an **aspiring Business Analyst** passionate about uncovering insights hidden
 <br/><b>Power BI</b>
 </td>
 <td align="center" width="300">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="68"/>
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" width="68"/>
 <br/><b>Excel</b>
 </td>
 <td align="center" width="300">
@@ -147,9 +146,25 @@ I'm an **aspiring Business Analyst** passionate about uncovering insights hidden
 <br/><b>Jupyter</b>
 </td>
 </tr>
+<tr>
+<td align="center" width="300">
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="68"/>
+<br/><b>Jira</b>
+</td>
+<td align="center" width="300">
+<img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="68"/>
+<br/><b>Confluence</b>
+</td>
+<td align="center" width="300">
+<img src="https://cdn.worldvectorlogo.com/logos/scrum-1.svg" width="68"/>
+<br/><b>Scrum</b>
+</td>
+<td align="center" width="300">
+</td>
+<td align="center" width="300">
+</td>
+</tr>
 </table>
-
----
 
 ## 📊 Excel Projects
 
