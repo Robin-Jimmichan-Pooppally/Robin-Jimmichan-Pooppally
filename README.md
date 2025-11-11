@@ -496,64 +496,60 @@ Credit risk assessment with default probability modeling for lending decisions.
 
 ### 📊 Contribution Activity
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Robin-Jimmichan-Pooppally&custom_title=Contribution%20Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robin-Jimmichan-Pooppally&custom_title=Contribution%20Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ### 🔥 Stats Overview
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
 </div>
 
-### 💻 Language Stats
+### 💻 Language & Repository Stats
 <div align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Repos per Language"/>
+</td>
+</tr>
+</table>
+</div>
+
+### 📈 Detailed Analytics
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+### ⏰ Coding Activity
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Most Commit Language"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Robin-Jimmichan-Pooppally&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</td>
+</tr>
+</table>
 </div>
 
 ### 👁️ Profile Views
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Robin-Jimmichan-Pooppally&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
-
----
-
-## 🚀 Looking For
-
-| Primary Focus | Also Open To | Seeking | My Strengths |
-|---|---|---|---|
-| Entry-Level Business Analyst Position | Data Analyst Role | Mentorship & Guidance from Experienced Professionals | 21 Verified Analytics Projects with Real Impact |
-| Junior Analyst Role in Analytics | Analytics Associate or Data Specialist | Real-world Experience in Production Analytics | 100K+ Records Analyzed Across Multiple Industries |
-| Graduate Analyst Program Opportunities | Reporting & BI Specialist Positions | Industry Knowledge & Domain Expertise Development | 10+ Industries Covered with Proven Techniques |
-
-**Fresher seeking entry-level Business Analyst opportunities!** I bring a strong foundation with 21 completed projects, analytical rigor, and enthusiasm to learn. No prior professional experience, but ready to contribute and grow with the right team.
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-</a>
-<a href="https://ask-robi-ai.streamlit.app/">
-  <img src="https://img.shields.io/badge/🤖_AI_Assistant-667EEA?style=for-the-badge&logoColor=white" height="40"/>
-</a>
-<a href="mailto:rjimmichan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-</a>
-
-<br/><br/>
-
-### 💭 *"The goal is to turn data into information, and information into insight."*
-
-<br/>
 
 ---
 
