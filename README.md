@@ -501,14 +501,14 @@ Credit risk assessment with default probability modeling for lending decisions.
 
 ### 🔥 Stats Overview
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ### 💻 Language & Repository Stats
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Repos per Language"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Repos per Language"/>
 </div>
 
 ### 📈 Detailed Analytics
@@ -518,8 +518,8 @@ Credit risk assessment with default probability modeling for lending decisions.
 
 ### ⏰ Coding Activity
 <div align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Most Commit Language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Robin-Jimmichan-Pooppally&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+<img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Most Commit Language"/>
+<img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Robin-Jimmichan-Pooppally&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
 ### 👁️ Profile Views
