@@ -101,67 +101,67 @@ I'm an **aspiring Business Analyst** passionate about uncovering insights hidden
 ---
 
 ## 💻 Tech Stack & Tools
-<table width="300">
+<table width="100">
 <tr>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=python" width="68"/>
 <br/><b>Python</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=mysql" width="68"/>
 <br/><b>SQL</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="68"/>
 <br/><b>Power BI</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" width="68"/>
 <br/><b>Excel</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="68"/>
 <br/><b>Pandas</b>
 </td>
 </tr>
 <tr>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="68"/>
 <br/><b>NumPy</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="68"/>
 <br/><b>Scikit-learn</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://matplotlib.org/stable/_static/logo_light.svg" width="68"/>
 <br/><b>Matplotlib</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="68"/>
 <br/><b>Seaborn</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://jupyter.org/favicon.ico" width="68"/>
 <br/><b>Jupyter</b>
 </td>
 </tr>
 <tr>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="68"/>
 <br/><b>Jira</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="68"/>
 <br/><b>Confluence</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 <img src="https://cdn.worldvectorlogo.com/logos/scrum-1.svg" width="68"/>
 <br/><b>Scrum</b>
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 </td>
-<td align="center" width="300">
+<td align="center" width="100">
 </td>
 </tr>
 </table>
