@@ -506,9 +506,13 @@ Credit risk assessment with default probability modeling for lending decisions.
 </div>
 
 ### 💻 Language & Repository Stats
-<div align="center">
-<img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Repos per Language"/>
+
+<div style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8"
+       style="height: 250px; width: 49%; object-fit: cover;" alt="Top Languages"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight"
+       style="height: 250px; width: 49%; object-fit: cover;" alt="Repos per Language"/>
 </div>
 
 ### 📈 Detailed Analytics
