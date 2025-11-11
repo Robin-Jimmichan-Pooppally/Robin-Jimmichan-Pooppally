@@ -493,27 +493,27 @@ Credit risk assessment with default probability modeling for lending decisions.
 ---
 
 ## 📈 GitHub Statistics
-
 <div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Robin-Jimmichan-Pooppally&custom_title=Contribution%20Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF&area=true&hide_border=true)](https://github.com/Robin-Jimmichan-Pooppally)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robin-Jimmichan-Pooppally&custom_title=Contribution%20Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-
-| GitHub Stats | GitHub Streak |
-|:---|:---|
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF)](https://github.com/Robin-Jimmichan-Pooppally) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF)](https://github.com/Robin-Jimmichan-Pooppally) |
-
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="https://streak-stats.demolab.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8)](https://github.com/Robin-Jimmichan-Pooppally) 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Robin-Jimmichan-Pooppally&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Robin-Jimmichan-Pooppally&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 ---
