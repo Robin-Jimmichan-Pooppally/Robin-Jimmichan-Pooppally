@@ -493,82 +493,61 @@ Credit risk assessment with default probability modeling for lending decisions.
 ---
 
 ## 📈 GitHub Statistics
+
+### 📊 Contribution Activity
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robin-Jimmichan-Pooppally&custom_title=Contribution%20Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
+### 🔥 Stats Overview
 <div align="center">
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF" alt="GitHub Stats"/>
-</td>
-<td>
-<img src="https://streak-stats.demolab.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Robin-Jimmichan-Pooppally&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robin-Jimmichan-Pooppally&custom_title=Contribution%20Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td>
+<td width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </td>
-<td>
+<td width="50%">
 <img src="https://streak-stats.demolab.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
 </div>
 
+### 💻 Language & Repository Stats
 <div align="center">
 <table>
 <tr>
-<td>
+<td width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 </td>
-<td>
-<img src="https://github-contributor-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF" alt="Top Contributed Repos"/>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Repos per Language"/>
 </td>
 </tr>
 </table>
 </div>
 
+### 📈 Detailed Analytics
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
+### ⏰ Coding Activity
 <div align="center">
 <table>
 <tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Repos per Language"/>
-</td>
-<td>
+<td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Robin-Jimmichan-Pooppally&theme=tokyonight" alt="Most Commit Language"/>
 </td>
-<td>
+<td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Robin-Jimmichan-Pooppally&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </td>
 </tr>
 </table>
 </div>
 
+### 👁️ Profile Views
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF" alt="WakaTime Stats"/>
-<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Robin-Jimmichan-Pooppally&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
