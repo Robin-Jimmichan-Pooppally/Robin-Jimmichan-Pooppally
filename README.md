@@ -499,12 +499,6 @@ Credit risk assessment with default probability modeling for lending decisions.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Robin-Jimmichan-Pooppally&custom_title=Contribution%20Activity&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-### 🔥 Stats Overview
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Robin-Jimmichan-Pooppally&theme=tokyonight" width="49%" height="195px" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&layout=compact&cache_seconds=86400" width="49%" height="195px" />
-
-</div>
-
 ### 💻 Language & Repository Stats
 
 <div align="center">
