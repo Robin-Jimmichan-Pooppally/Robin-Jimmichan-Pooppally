@@ -503,10 +503,8 @@ Credit risk assessment with default probability modeling for lending decisions.
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robin-Jimmichan-Pooppally&theme=tokyonight)
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Robin-Jimmichan-Pooppally&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Robin-Jimmichan-Pooppally&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&layout=compact&cache_seconds=86400" width="49%" />
 
 </div>
 
