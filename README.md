@@ -502,11 +502,10 @@ Credit risk assessment with default probability modeling for lending decisions.
 ### 🔥 Stats Overview
 
 <div align="center">
-  
-<a href="https://github.com/Robin-Jimmichan-Pooppally">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robin-Jimmichan-Pooppally&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Robin-Jimmichan-Pooppally&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF&cache_seconds=86400"/>
-</a>
+
+[![GitHub Stats](https://img.shields.io/badge/GitHub-Profile-667EEA?style=for-the-badge&logo=github)](https://github.com/Robin-Jimmichan-Pooppally)
+[![Repos](https://img.shields.io/badge/dynamic/json?color=667EEA&style=for-the-badge&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Robin-Jimmichan-Pooppally)](https://github.com/Robin-Jimmichan-Pooppally?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Robin-Jimmichan-Pooppally?style=for-the-badge&color=FF6B6B&logo=github)](https://github.com/Robin-Jimmichan-Pooppally?tab=followers)
 
 </div>
 
