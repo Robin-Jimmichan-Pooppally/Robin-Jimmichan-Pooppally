@@ -522,11 +522,6 @@ Credit risk assessment with default probability modeling for lending decisions.
 <img src="https://komarev.com/ghpvc/?username=Robin-Jimmichan-Pooppally&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
-## 🎮 Pac-Man Eating My Contributions
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Robin-Jimmichan-Pooppally/Robin-Jimmichan-Pooppally/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
-</div>
-
 ---
 
 <br/>
